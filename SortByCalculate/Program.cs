@@ -6,10 +6,10 @@ object lock_obj = new object();
 Random randomizer = new Random();
 int[] array = new int[SIZE_OF_ARRAY].Select(r => randomizer.Next(1, 100)).ToArray();
 
-void ShowArray(int[] array)
-{
-    Console.WriteLine($"[{String.Join(", ", array)}]");
-}
+// void ShowArray(int[] array)
+// {
+//     Console.WriteLine($"[{String.Join(", ", array)}]");
+// }
 
 //ShowArray(array);
 SortArrayByCalculate(array);
