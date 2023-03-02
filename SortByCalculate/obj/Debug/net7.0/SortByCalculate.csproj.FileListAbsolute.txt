@@ -1,0 +1,15 @@
+C:\GeekBrains\bootcamp\SortByCalculate\bin\Debug\net7.0\SortByCalculate.exe
+C:\GeekBrains\bootcamp\SortByCalculate\bin\Debug\net7.0\SortByCalculate.deps.json
+C:\GeekBrains\bootcamp\SortByCalculate\bin\Debug\net7.0\SortByCalculate.runtimeconfig.json
+C:\GeekBrains\bootcamp\SortByCalculate\bin\Debug\net7.0\SortByCalculate.dll
+C:\GeekBrains\bootcamp\SortByCalculate\bin\Debug\net7.0\SortByCalculate.pdb
+C:\GeekBrains\bootcamp\SortByCalculate\obj\Debug\net7.0\SortByCalculate.csproj.AssemblyReference.cache
+C:\GeekBrains\bootcamp\SortByCalculate\obj\Debug\net7.0\SortByCalculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\bootcamp\SortByCalculate\obj\Debug\net7.0\SortByCalculate.AssemblyInfoInputs.cache
+C:\GeekBrains\bootcamp\SortByCalculate\obj\Debug\net7.0\SortByCalculate.AssemblyInfo.cs
+C:\GeekBrains\bootcamp\SortByCalculate\obj\Debug\net7.0\SortByCalculate.csproj.CoreCompileInputs.cache
+C:\GeekBrains\bootcamp\SortByCalculate\obj\Debug\net7.0\SortByCalculate.dll
+C:\GeekBrains\bootcamp\SortByCalculate\obj\Debug\net7.0\refint\SortByCalculate.dll
+C:\GeekBrains\bootcamp\SortByCalculate\obj\Debug\net7.0\SortByCalculate.pdb
+C:\GeekBrains\bootcamp\SortByCalculate\obj\Debug\net7.0\SortByCalculate.genruntimeconfig.cache
+C:\GeekBrains\bootcamp\SortByCalculate\obj\Debug\net7.0\ref\SortByCalculate.dll
