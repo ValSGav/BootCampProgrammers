@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Document</title>
+</head>
+
+<body>
+    {% block content %}
+    <form action="" method="post">
+        {{ form.csrf_token }}
+
+        {{ form.name.label }}
+        {{ form.name() }}
+        <br>
+        {{ form.email.label }}
+        {{ form.email() }}
+        <br>
+        {{ form.password.label }}
+        {{ form.password() }}
+        <br>
+        {{ form.password_again.label }}
+        {{ form.password_again() }}
+        <br>
+        {{ form.remember_me.label }}
+        {{ form.remember_me() }}
+        <br>
+        {{ form.submit() }}
+
+    </form>
+    {% endblock %}
+</body>
+
+</html>
